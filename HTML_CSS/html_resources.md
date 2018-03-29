@@ -1,3 +1,17 @@
+---
+title: HTML CSS
+category: Languages
+---
+
+
+# Index
+* [Online Books and PDFs](#online-books-and-pdfs)
+* [Websites](#websites)
+* [Frameworks](#frameworks)
+* [Learn through games](#learn-through-games)
+* [Methodologies](#methodologies)
+
+
 ## Online Books and PDFs
 --------
 * [A beginner's guide to HTML&CSS](http://learn.shayhowe.com/html-css/)
@@ -28,6 +42,8 @@
 * [Chapter Wise Tutorials with Examples: HTML](https://www.w3schools.com/html/)
 * [Chapter Wise Tutorials with Examples: CSS](https://www.w3schools.com/css/default.asp)
 * [CSSmatic - CSS short cuts](http://www.cssmatic.com/)
+* [CSS-Tricks - Articles on implementing design using CSS](https://css-tricks.com/)
+* [CSS Zen Garden - Finding design inspirations](http://www.csszengarden.com/)
 * [GRID GARDEN- A GAME FOR LEARNING CSS](http://cssgridgarden.com/)
 * [Flexbox froggy- A GAME FOR LEARNING CSS](http://flexboxfroggy.com/)
 * [Sassmeister](https://www.sassmeister.com/)
@@ -41,7 +57,7 @@
 * [HTML Books](http://www.it-ebooks.info/tag/html/)
 
 
-Learn through games
+## Learn through games
 --------
 
 * [Flexbox Defense](http://www.flexboxdefense.com/)
@@ -49,7 +65,7 @@ Learn through games
 * [Grid Garden](http://cssgridgarden.com/)
 
 
-Methodologies
+## Methodologies
 --------
 
 * [BEM: About](https://en.bem.info/methodology/)
