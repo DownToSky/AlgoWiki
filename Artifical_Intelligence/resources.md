@@ -34,6 +34,7 @@ Contributions most welcome.
 * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) - Algorithmic and practical tricks for artifical neural networks.
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
 * [Practical Deep Learning for Coders](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math and also without dumbing anything down.
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) - This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
 [⬆ Back to Top](#index)
 
@@ -73,6 +74,7 @@ Contributions most welcome.
 * [Brief Introduction to Educational Implications of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia:Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer reviewed papers and new material to analyze the issues of ethical artificial intelligence.
+* [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on AI and ML, including neural networks, deep learning, and NLP.
 
 [⬆ Back to Top](#index)
 
@@ -85,6 +87,7 @@ Contributions most welcome.
 ## Videos/Talks
 
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
+* [Stanford University School of Engineering: Convolutional Neural Networks for visual recognition](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) - Youtube playlist that elaborately discusses about the fundamentals of building a convolutional neural network model and also the functionality of different types of neural networks.
 
 [⬆ Back to Top](#index)
 
